@@ -2,7 +2,7 @@
 
 A responsive landing page for a fictional creative studio, built as my first web development project using only HTML and CSS.
 
-**Live demo:** https://harshita5526.github.io/lumora/
+**Live demo:** https://lumora-theta-lemon.vercel.app
 
 ## Features
 
